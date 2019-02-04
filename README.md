@@ -2,7 +2,7 @@
 
 A Prey and Predator simulation with genetic algorithms powered by Processing and Java.
 
-!(DEMO 1)[demo_1.gif]
+![DEMO 1](demo_1.gif)
 
 ### Introduction
 
@@ -17,9 +17,9 @@ His idea for generating a life-like pattern for life followed four simple rules
 2. For a space that is 'empty' or 'unpopulated'
    1. Each cell with three neighbors becomes populated.
 
-Those rules alone were capable of creating very interesting patterns as seen in the gif below taken from !(Wikipedia)[https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life]. If you want to know more about the original game of life (It's a very interesting read). Please follow the link.
+Those rules alone were capable of creating very interesting patterns as seen in the gif below taken from ![Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). If you want to know more about the original game of life (It's a very interesting read). Please follow the link
 
-!(Game of Life)[game_of_life.gif]
+![Game of Life](game_of_life.gif)
 
 ### Life Rules
 
@@ -42,7 +42,7 @@ For my take on the game of life I created a few rules:
    1. Each parent has 50% chance of spreading one of its genes for every gene in the pool
    1. Each life form has it's own attributes that can be inherited including: size, acceleration, force, velocity, awareness distance and so on.
 
-!(DEMO 2)[demo_2.gif]
+![DEMO 2](demo_2.gif)
 
 ### Next Steps:
 
